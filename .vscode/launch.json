@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ETL_RUN JOB",
+            "type": "python",
+            "python.pythonPath" : "C:/Users/hasan/.virtualenvs/ETL-PipeLine-3-M8jxlQ",
+            "request": "launch",
+            "program": "D:/ETL_Project/ETL-PipeLine/run.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args" : ["D:/ETL_Project/ETL-PipeLine/configs/extra_report1_config.yml"]
+        }
+    ]
+}
